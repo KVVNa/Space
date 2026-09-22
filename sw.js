@@ -1,5 +1,5 @@
-// Service Worker for pick-duel-v65 - offline support with smart caching
-const CACHE_NAME = 'pick-duel-v65';
+// Service Worker for pick-duel-v66 - offline support with smart caching
+const CACHE_NAME = 'pick-duel-v66';
 
 // Install: skip waiting for immediate activation
 self.addEventListener('install', (event) => {
