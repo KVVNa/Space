@@ -2,7 +2,7 @@
 
 5枚の防衛線をめぐるカードバトルゲーム
 
-ビルド: pick-duel-v76（HTML内の meta[name=build] とは別管理。配布物のバージョンはこの値で統一）
+ビルド: pick-duel-v77（HTML内の meta[name=build] とは別管理。配布物のバージョンはこの値で統一）
 
 ## セットアップ（GitHub Pages）
 
